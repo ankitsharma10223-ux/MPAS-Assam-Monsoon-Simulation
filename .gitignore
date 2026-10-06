@@ -1,0 +1,15 @@
+*.nc
+!mpas_rainfall_imd0p25.nc
+history.*
+lbc.*
+*.out
+*.log
+log.*
+*.bin
+*.dat
+*.TBL
+*.DATA*
+atmosphere_model
+init_atmosphere_model
+movie_temp/
+movie_light_temp/
